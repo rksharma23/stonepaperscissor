@@ -28,6 +28,9 @@ img{
 img:hover{
     cursor: pointer;
 }
+#display{
+    text-align: center;
+}
 #result{
     /* display: none; */
     visibility: hidden;
